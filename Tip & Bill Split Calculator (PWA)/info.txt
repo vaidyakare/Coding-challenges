@@ -1,0 +1,20 @@
+# 💰 Tip & Bill Split Calculator (PWA)
+
+A **Progressive Web App (PWA)** for quickly calculating tips and splitting bills among friends or colleagues.  
+Features real-time updates, multiple currency support, dark mode, and offline functionality — designed with clean UI and responsive layout.
+
+---
+
+## 🚀 Features
+
+- 🧮 **Live Calculation** — Instantly updates totals as you type  
+- 💵 **Currency Selector** — Choose from USD, EUR, GBP, INR, JPY, and more  
+- 🌙 **Dark Mode** — Toggle light/dark themes for any environment  
+- 📱 **PWA Ready** — Works offline and installable on desktop or mobile  
+- ⚡ **Responsive Design** — Optimized for all screen sizes  
+- 💾 **Fast Loading** — Caches core files using a Service Worker  
+
+---
+
+## 🧩 Project Structure
+

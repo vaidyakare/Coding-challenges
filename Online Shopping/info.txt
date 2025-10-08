@@ -1,0 +1,9 @@
+The Online Shopping System allows users to browse products, add them to a cart, and review their selected items before checkout.
+It’s a static web application, suitable for a prototype or demo project, built with pure frontend technologies.
+
+✨ Features
+Displays a product catalog with images, prices, and descriptions.
+Allows adding/removing products to/from the cart.
+Automatically saves the cart using localStorage.
+Provides a summary of selected items and total amount.
+Clean, responsive interface.
